@@ -1,0 +1,6 @@
+Git init
+Git add test.txt
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ewooten7/Test-Repository-1/new/main
+git push -u origin main
