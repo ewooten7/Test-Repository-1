@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Tiny Horse</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+<!--NavBar Creation-->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+        <!--NavBar items-->
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+        
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Work</a>
+            </li>
+
+            <li class="nav-item active">
+                <a class="nav-link" href="#">About</a>
+            </li>
+
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Careers</a>
+            </li>
+
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Interns</a>
+            </li>
+
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Contact</a>
+            </li>
+                </div>
+            </li>
+        </ul>
+
+    <!--Search Button-->
+
+    </div>
+</nav>
+
+<div class="jumbotron jumbotron-fluid main-picture">
+    <div class="container">
+        <h1 class="display-4">We’re people who like people.</h1>
+    </div>
+</div>
+
+<h2><span style="font-weight: 400; line-height: 1.7; font-size: 40px;">Tiny Horse is always on the lookout for innovative and creative minds who have a passion for entertainment and digital, and a curiosity and drive to discover what’s next.</span></h2>
+
+<!--Cover Image 2-->
+<div class="background-cover background-center background-norepeat max-ht-750 max-w-1150 lazyloaded" data-bg="https://sp-ao.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Culture-pic.jpg" style="background-image: url(&quot;https://sp-ao.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Culture-pic.jpg&quot;);" id="culture-img"> <noscript><img src="https://sp-ao.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Culture-pic.jpg" class="invisible" /></noscript><img src="https://sp-ao.shortpixel.ai/client/to_avif,q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Culture-pic.jpg" data-src="https://sp-ao.shortpixel.ai/client/to_avif,q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Culture-pic.jpg" class="invisible lazyloaded"></div>
+
+
+<div class="abs-pos b-x-width-none b-b-width-none b-t-width-2xl border-alt-red background-cream p-x-spacer-lg p-y-spacer-xl min-ht-500 max-w-475 flex flex-column flex-align-start flex-justify-center way-forward" style="left: initial; right: -20vw; top:15%" id="culture"><h2 class="font-xl">Our Culture</h2><p class="sans-serif sgl-ln-height"><span class="truncate"><div class="truncate-text" style="display: none;">We work hard and we play hard. Whether we’re testing out new craft beers made by our local clients, or winning a Cannes Lions for creative campaigns, we’ve built a culture where we can trust each other to deliver. We don’t hesitate in asking each other for help, so if you aren’t afraid to raise your hand and step out of your comfort zone, let’s talk. When we aren’t at the office, it’s not unlikely that we’re hitting up happy hours or singing terrible karaoke on a<span class="moreellipses">&nbsp;&nbsp;<br><a href="" style="font-weight:bold;padding-bottom:2px;text-transform: uppercase !important" class="moreless more text-alt-red uppercase serif font-sm border-bottom inline-block m-t-spacer-sm">More</a></span></div><div class="truncate-text" style="">We work hard and we play hard. Whether we’re testing out new craft beers made by our local clients, or winning a Cannes Lions for creative campaigns, we’ve built a culture where we can trust each other to deliver. We don’t hesitate in asking each other for help, so if you aren’t afraid to raise your hand and step out of your comfort zone, let’s talk. When we aren’t at the office, it’s not unlikely that we’re hitting up happy hours or singing terrible karaoke on a Saturday night because we genuinely like each other. We seek candidates who want to become part of our family.<br> <br> We’re self-starters. If micromanagement is your thing, then Tiny Horse probably isn’t for you. Our team feels confident in taking the initiative to get the job done.<br> <br> But we also value collaboration. We trust the brainpower of every one of our employees, no matter their role, as we believe the sum is greater than the parts. Check your ego at the door, she can’t sit with us. We respect and support each other so that brainstorms can lead to million-dollar idea$. <br> <br> And lastly, we never forget where we came from. We pride ourselves on our unique roots across entertainment, production, and marketing. We’re an eccentric and diverse bunch. Don’t be surprised if you catch a partner dressed in drag. That’s show biz, baby!<br>  <br><a href="" style="font-weight:bold;padding-bottom:2px;text-transform: uppercase !important" class="moreless less text-alt-red uppercase serif font-sm border-bottom inline-block m-t-spacer-sm"></a></div></span></p></div>
+
+
+<!--Cover Image 3-->
+<div class="background-cover background-center background-norepeat max-ht-750 max-w-1150 lazyloaded" data-bg="https://sp-ao.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Benefits.jpg" style="background-image: url(&quot;https://sp-ao.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Benefits.jpg&quot;);" id="benefits-img"> <noscript><img src="https://sp-ao.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Benefits.jpg" class="invisible" /></noscript><img src="https://sp-ao.shortpixel.ai/client/to_avif,q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Benefits.jpg" data-src="https://sp-ao.shortpixel.ai/client/to_avif,q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/12/Benefits.jpg" class="invisible lazyloaded">
+</div> 
+
+<div class="abs-pos b-x-width-none b-b-width-none b-t-width-2xl border-alt-red background-cream p-x-spacer-lg p-y-spacer-xl min-ht-500 max-w-475 flex flex-column flex-align-start flex-justify-center" style="left: initial; right: 60vw; top:15%" id="benefits">
+    <h2 class="font-xl">Benefits</h2> <span class="sans-serif font-smaller sgl-ln-height">
+
+    <p>We want you here for a long time, not just a good time. We are dedicated to growing and developing our people, and ultimately, creating what’s next for you. In order to do that, we believe our people need to be taken care of. As part of the team, you can expect:</p>
+        <ul class="reg-list-style font-xs m-l-spacer-md">
+            <li>Unlimited PTO</li>
+            <li>Work From Home Fridays</li>
+            <li>Full Benefits – Medical, Dental, Vision</li>
+            <li>The Latest Tech – MacBook, etc.</li>
+            <li>Wellness Incentives</li>
+            <li>Stocked Kitchen and Bar</li>
+            <li>Paid Maternity and Paternity Leave</li>
+            <li>Woof Woof (Dog-Friendly Office)</li>
+        </ul> 
+    </span>
+</div> 
+
+<!--Bottom of page content-->
+<section class="background-white full-width p-y-spacer-2xl">
+    <div class="max-w-1750 center-content m-b-spacer-2xl p-x-spacer-3xl mob-p-x-spacer-2xl">
+        <h2 class="text-left m-b-spacer-md font-xxxl">Current Openings</h2>
+        <h2 class="text-left m-t-spacer-md m-b-spacer-none font-xxxl">Want to join our internship?</h2>
+
+        <p class="sans-serif sgl-ln-height">Our internship program was built to give you real experience, guided by one of our team members here in Charlotte, NC or Los Angeles, CA who actually works in your area of interest.</p> 
+        <a href="/interns/" class="text-alt-red uppercase">
+            <h6 class="bold font-xs flex flex-align-center">Apply Now 
+            <i class="fa fa-angle-right fa-lg bold inline-block m-l-spacer-xs" aria-hidden="true"></i></h6>
+        </a>
+    </div>
+</section> 
+
+<!--Bootstrap Footer content-->
+<footer>
+    <div class="container" style="color: white; background-color: black; padding: 15px 0px 30px;">
+        <div class="row" style="margin: 40px;">
+            <div class="col-sm-3" style="padding: 15px 0px;">
+                <img src="./images/Tiny-Horse-logo-White-footer.png" width="200" style="margin: -5px 0px -16px;"
+                    alt="TinyHorse Logo">
+                <img src="./images/TeamWhistle.png" width="200" style="margin: -15px 0px 0px;"
+                    alt="TeamWhistle Logo">
+                <br><br>
+            </div>
+            <div class="col-sm-3" style="padding: 50px 0px;;">
+                <h6>6121 SUNSET BLVD<br><br><br><br></h6>
+                <h6>LOS ANGELES, CA 90028<br><br><br><br></h6>
+                <h6>INFO@TINYHORSE.COM</h6>
+            </div>
+            <div class="col-sm-3" style="padding: 50px 0px; line-height: 3;">
+                <h6>LOS ANGELES<br><br><br><br></h6>
+                <h6>CHARLOTTE<br><br><br><br></h6>
+                <h6>NEW YORK</h6>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12" style="font-size: 8pt; margin-left: 50px; color:slategrey;">
+                &copy; Copyright 2020 | Tiny Horse | Privacy Policy | Legal
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<!--Bootstrap JS-->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script> 
+
+
+
+<a href="https://github.com/ewooten7/Test-Repository-1" target="_blank">My Repository</a>
+</body>
+</html>
